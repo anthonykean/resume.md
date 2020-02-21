@@ -64,7 +64,13 @@ table { border: 1px solid black; }
 <td>Dean's List</td>
 </tr>
 </table>
-
+<footer>
+<h4>Contact</h4>
+<ul>
+	<li>732-890-4599</li>
+	<li>agk58@miami.edu</li>
+</ul>
+</footer>
 
 </body>
 
